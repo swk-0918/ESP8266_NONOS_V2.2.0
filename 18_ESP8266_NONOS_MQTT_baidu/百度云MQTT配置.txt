@@ -1,0 +1,22 @@
+认证方式： 【密钥认证】
+
+实例名：				8c3u7ca
+MQTT服务端域名：		8c3u7ca.mqtt.iot.bj.baidubce.com
+MQTT服务端端口号：		1883
+MQTT密码(身份密钥)：	1aJHPBpgvXJav7OV
+身份：					aviator_shuke
+策略：					Will,SW_LED
+MQTT客户端：		
+	1、iot_light_esp8266_01 	MQTT用户名:	8c3u7ca/iot_light_esp8266_01
+	2、iot_light_mqttfx_baidu 	MQTT用户名:	8c3u7ca/iot_light_mqttfx_baidu
+
+
+
+
+
+
+
+
+
+
+
