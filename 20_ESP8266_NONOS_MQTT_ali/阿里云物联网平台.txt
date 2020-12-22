@@ -1,0 +1,32 @@
+[产品]：		iot_light_swk
+
+------------------------------------------------------------------------
+云端：
+Clientid设置为：qwersdf
+
+[设备]：		iot_light_mqttfx_aliyun
+
+[域名]：		a1LkxPyS1rB.iot-as-mqtt.cn-shanghai.aliyuncs.com:1883
+
+[ClientID]：	qwersdf|securemode=3,signmethod=hmacsha1|
+
+[Username]：	iot_light_mqttfx_aliyun&a1LkxPyS1rB
+
+[password]：	589400049D17C7DD8264781469579C2768E46BA7
+
+------------------------------------------------------------------------
+云下设备：
+Clientid设置为：FESA234FBDS24
+
+[设备]：		iot_light_esp8266_01
+
+[域名]：		a1LkxPyS1rB.iot-as-mqtt.cn-shanghai.aliyuncs.com:1883
+
+[ClientID]：	FESA234FBDS24|securemode=3,signmethod=hmacsha1|
+
+[Username]：	iot_light_esp8266_01&a1LkxPyS1rB
+
+[password]：	50B86494225D3529DF3E4E5F0E16705D3F65F696
+
+
+
