@@ -1,0 +1,5 @@
+TCP Address: tcp://d0huudb.mqtt.iot.bj.baidubce.com:1883
+SSL Address: ssl://d0huudb.mqtt.iot.bj.baidubce.com:1884
+WSS Address: wss://d0huudb.mqtt.iot.bj.baidubce.com:443
+name: d0huudb/TH_ESP8266_SWK
+key: 3zhshpjf1bsg33rk
