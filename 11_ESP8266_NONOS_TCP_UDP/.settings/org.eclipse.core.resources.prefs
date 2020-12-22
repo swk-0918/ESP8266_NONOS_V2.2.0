@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//app/user/ap_tcp_client.c=UTF-8
+encoding//app/user/ap_tcp_server.c=UTF-8
+encoding//app/user/ap_udp_client.c=UTF-8
+encoding//app/user/ap_udp_servic.c=UTF-8
+encoding//app/user/sta_tcp_client.c=UTF-8
+encoding//app/user/sta_tcp_server.c=UTF-8
+encoding//app/user/sta_udp_client.c=UTF-8
+encoding//app/user/sta_udp_server.c=UTF-8
+encoding//app/user/user_main.c=UTF-8
